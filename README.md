@@ -3,7 +3,6 @@ version graphique du jeu d'échecs réalisée avec Qt
 
 
 FR:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 équipe (pour nous contacter) :
 
@@ -15,7 +14,6 @@ Après le téléchargement, il faut changer les chemins dans le fichier joueur.c
 
 
 EN:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Team (for inquiries):
 
