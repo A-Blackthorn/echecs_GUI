@@ -85,22 +85,22 @@ string joueur::idToPath(int id){
     case 1:
         switch (id){
         case 1:
-            return "D:/ESISA/C++/echecs_GUI/pieces/king_black.svg";
+            return ":/pieces/king_black.svg";
             break;
         case 2:
-            return "D:/ESISA/C++/echecs_GUI/pieces/queen_black.svg";
+            return ":/pieces/queen_black.svg";
             break;
         case 3:
         case 4:
-            return "D:/ESISA/C++/echecs_GUI/pieces/bishop_black.svg";
+            return ":/pieces/bishop_black.svg";
             break;
         case 5:
         case 6:
-            return "D:/ESISA/C++/echecs_GUI/pieces/knight_black.svg";
+            return ":/pieces/knight_black.svg";
             break;
         case 7:
         case 8:
-            return "D:/ESISA/C++/echecs_GUI/pieces/rook_black.svg";
+            return ":/pieces/rook_black.svg";
             break;
         case 9:
         case 10:
@@ -110,7 +110,7 @@ string joueur::idToPath(int id){
         case 14:
         case 15:
         case 16:
-            return "D:/ESISA/C++/echecs_GUI/pieces/pawn_black.svg";
+            return ":/pieces/pawn_black.svg";
             break;
         default:
             return "";
@@ -120,22 +120,22 @@ string joueur::idToPath(int id){
     case 2:
         switch (id){
         case 1:
-            return "D:/ESISA/C++/echecs_GUI/pieces/king_white.svg";
+            return ":/pieces/king_white.svg";
             break;
         case 2:
-            return "D:/ESISA/C++/echecs_GUI/pieces/queen_white.svg";
+            return ":/pieces/queen_white.svg";
             break;
         case 3:
         case 4:
-            return "D:/ESISA/C++/echecs_GUI/pieces/bishop_white.svg";
+            return ":/pieces/bishop_white.svg";
             break;
         case 5:
         case 6:
-            return "D:/ESISA/C++/echecs_GUI/pieces/knight_white.svg";
+            return ":/pieces/knight_white.svg";
             break;
         case 7:
         case 8:
-            return "D:/ESISA/C++/echecs_GUI/pieces/rook_white.svg";
+            return ":/pieces/rook_white.svg";
             break;
         case 9:
         case 10:
@@ -145,7 +145,7 @@ string joueur::idToPath(int id){
         case 14:
         case 15:
         case 16:
-            return "D:/ESISA/C++/echecs_GUI/pieces/pawn_white.svg";
+            return ":/pieces/pawn_white.svg";
             break;
         default:
             return "";
